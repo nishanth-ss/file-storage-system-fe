@@ -1,3 +1,24 @@
+# 🚀 Project Name
+
+A modern web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
+---
+
+## 📚 Documentation
+
+- **Framework**: [Next.js Documentation](https://nextjs.org/docs)
+- **Styling**: [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- **Language**: [TypeScript Handbook](https://www.typescriptlang.org/docs/)
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/nishanth-ss/file-storage-system-fe.git
+cd your-repo
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
